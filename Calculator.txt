@@ -7,6 +7,8 @@ public double Multiply(double a,double b){
 public double SubstractionA(double a,double b){
 	return a * b
 }
+
+public double SubstractionB(double a,double b){
 	return a * b
 }
 
